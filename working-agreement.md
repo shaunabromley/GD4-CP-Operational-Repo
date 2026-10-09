@@ -6,15 +6,14 @@ Version: 1.0 | Agreed: DATE | Next review: Sprint RETRO_NUMBER retrospective
 
 | Item | Our agreement |
 |:-|:-|
-| Core hours (*) |
-| 8 hours | 
-| From the hours of 10pm to 8am do not annoy each other | 
-| Not expected to respond past 10pm every day. Core hours are during college, long break on Tuesday.|
-| Ana- Not available Tuesday evenings, possibly not on Friday evenings | 
-| Kriss - Not available Wednesday evenings or Thursday evenings |
-| Maky - Not available mid day Wednesday | 
-| Reine - Same as Maky. 4-5.30 may not be available | 
-| Shauna - Same as Maky | 
+| Core hours (*) | 8 hours  
+From the hours of 10pm to 8am do not annoy each other.  
+Not expected to respond past 10pm every day. Core hours are during college, long break on Tuesday.  
+Ana- Not available Tuesday evenings, possibly not on Friday evenings  
+Kriss - Not available Wednesday evenings or Thursday evenings  
+Maky - Not available mid day Wednesday  
+Reine - Same as Maky. 4-5.30 may not be available  
+Shauna - Same as Maky| 
 | Team channel (*) |
 | Discord Server |
 | Reply time (*) | Weekdays: Within 24 hours, Weekends: 24 hours |
@@ -25,7 +24,7 @@ Version: 1.0 | Agreed: DATE | Next review: Sprint RETRO_NUMBER retrospective
 
 | Item | Our agreement |
 |:-|:-|
-| How decisions are made (*) | <owner decides after discussion / vote / consensus> 
+| How decisions are made (*) | <owner decides after discussion / vote / consensus> |
 | Major design choices - by vote/consensus|
 | Minor design choices - by area owner | 
 | Whole-team decisions | <for example: changing pillars, cutting a Must, changing engine version> |
